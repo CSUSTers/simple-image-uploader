@@ -14,3 +14,8 @@ npm run start
 npm install
 npm run dev
 ```
+导出为静态页面：
+```
+npm install
+npm run export
+```
