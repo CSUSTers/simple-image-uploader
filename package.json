@@ -12,8 +12,8 @@
     "es6-promise": "^4.2.8",
     "isomorphic-fetch": "^2.2.1",
     "next": "^9.3.2",
-    "react": "^16.8.6",
-    "react-dom": "^16.13.0"
+    "react": "^16.14.0",
+    "react-dom": "^16.8.6"
   },
   "devDependencies": {
     "typescript": "^3.5.3"
