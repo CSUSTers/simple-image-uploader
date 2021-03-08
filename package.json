@@ -11,7 +11,7 @@
     "@types/next": "^9.0.0",
     "es6-promise": "^4.2.8",
     "isomorphic-fetch": "^2.2.1",
-    "next": "^10.0.7",
+    "next": "^10.0.8",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
